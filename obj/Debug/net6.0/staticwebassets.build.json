@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qdG9q4Af90y0rj4093ZnyGGmXWVgQHZJ34zNhClyyz8=",
+  "Source": "ApiCorrelation",
+  "BasePath": "_content/ApiCorrelation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
